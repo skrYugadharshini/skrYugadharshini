@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)]
+
 <h1 align="center">Hi 👋, I'm Yuga Dharshini</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
