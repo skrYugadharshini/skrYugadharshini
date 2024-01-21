@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yugadharshini sundharakumar" target="blank"><img src="https://img.shields.io/twitter/follow/yugadharshini sundharakumar?logo=twitter&style=for-the-badge" alt="yugadharshini sundharakumar" /></a> </p>
 
-- 🔭 I’m currently working on **EmoTune**
+- 🔭 I’m currently a 2nd Year Undergraduate looking for amazing work opportunities!
 
-- 🌱 I’m currently learning **framewoks**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **android**
+- 💬 Ask me about **Data Structures & Algorithms , Web Development
+
+**
 
 - 📫 How to reach me **chayugadharshini@gmail.com**
 
