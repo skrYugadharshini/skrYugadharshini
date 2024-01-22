@@ -1,19 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Yuga Dharshini</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif](https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
-<p align="right"> <img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" alt="skryugadharshini" /> </p>
+<p align="left"> <img src="68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430" alt="skryugadharshini" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yugadharshini sundharakumar" target="blank"><img src="https://img.shields.io/twitter/follow/yugadharshini sundharakumar?logo=twitter&style=for-the-badge" alt="yugadharshini sundharakumar" /></a> </p>
 
-- 🔭 I’m currently a 2nd Year Undergraduate looking for amazing work opportunities!
+- 🔭 I’m currently working on **EmoTune**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **framewoks**
 
-- 💬 Ask me about **Data Structures & Algorithms , Web Development
-
-**
+- 💬 Ask me about **android**
 
 - 📫 How to reach me **chayugadharshini@gmail.com**
 
