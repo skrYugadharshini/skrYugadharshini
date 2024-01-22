@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuga Dharshini</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="skryugadharshini" /> </p>
+<p align="right"> <img align="right" alt-"Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="skryugadharshini" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yugadharshini sundharakumar" target="blank"><img src="https://img.shields.io/twitter/follow/yugadharshini sundharakumar?logo=twitter&style=for-the-badge" alt="yugadharshini sundharakumar" /></a> </p>
 
